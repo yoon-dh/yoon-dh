@@ -31,17 +31,17 @@
 
  ### 📌 Project List
 
- #### Economius 📍[Goto Project Repository](https://github.com/yoon-dh/economius, "economius")
+ #### Economius 📍[Goto Project Repository](https://github.com/yoon-dh/economius)
  - React, TypeScript, Three.js, React-three-fiber, Recoil, Styled-components
  - SSAFY 9th
  - 삼성 청년 SW 아카데미 - 최우수 프로젝트 🏆
 
- #### Hello,Today 📍[Goto Project Repository](https://github.com/yoon-dh/hello_today, "Hello,today")
+ #### Hello,Today 📍[Goto Project Repository](https://github.com/yoon-dh/hello_today)
  - React, JavaScript, Redux Toolkit, CSS Modules,WebRTC
  - SSAFY 9th
  - 삼성 청년 SW 아카데미 - 우수 프로젝트 🏆
 
- #### Mo.vue 📍[Goto Project Repository](https://github.com/yoon-dh/final_pjt, "Mo.vue")
+ #### Mo.vue 📍[Goto Project Repository](https://github.com/yoon-dh/final_pjt)
  - Vue.js, Vuex, Django
  - SSAFY 9th
 
