@@ -18,7 +18,7 @@
 
 - Also can use
   
- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> 
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/CSS Modules-000000?style=for-the-badge&logo=CSS Modules&logoColor=white"> <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white">  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> 
 
 
 - Collarboration Tool
@@ -32,12 +32,12 @@
  ### 📌 Project List
 
  #### Economius 📍[Goto Project Repository](https://github.com/yoon-dh/economius, "economius")
- - React, TypeScript, Three.js, React-three-fiber, Recoil
+ - React, TypeScript, Three.js, React-three-fiber, Recoil, Styled-components
  - SSAFY 9th
  - 삼성 청년 SW 아카데미 - 최우수 프로젝트 🏆
 
  #### Hello,Today 📍[Goto Project Repository](https://github.com/yoon-dh/hello_today, "Hello,today")
- - React, JavaScript, Redux Toolkit, WebRTC
+ - React, JavaScript, Redux Toolkit, CSS Modules,WebRTC
  - SSAFY 9th
  - 삼성 청년 SW 아카데미 - 우수 프로젝트 🏆
 
