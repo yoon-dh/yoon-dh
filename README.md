@@ -31,7 +31,7 @@
 
  ### 📌 Project List
 
- #### EEFY 📍[Goto Project Repository](https://github.com/yoon-dh/economius)
+ #### EEFY 📍[Goto Project Repository](https://github.com/yoon-dh/EEFY)
  - Next.js, TypeScript, Recoil, TailwindCSS, PWA, FCM
  - SSAFY 9th
 
