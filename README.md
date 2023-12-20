@@ -51,7 +51,7 @@
 
 <hr>
 
-### Activities
+### Algorithm & Activities
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=acttoze)](https://solved.ac/acttoze)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-dh&layout=compact)](https://github.com/yoon-dh/github-readme-stats)
